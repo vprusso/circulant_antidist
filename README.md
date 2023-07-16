@@ -1,8 +1,12 @@
 # Supplemental code examples for arXiv:X
 
-# Setup 
+All examples are provided in the `demo.ipynb` notebook. If you wish to modify
+and run this locally, follow the directions in the "Setup" section.
 
-Create and activate a virtual environment. Install the third-party requirements to run.
+## Setup 
+
+Create and activate a virtual environment. Install the third-party requirements
+to run.
 
 ```
 python3 -m venv venv
@@ -10,8 +14,10 @@ source venv/bin/activate
 pip install --upgrade -r requirements.txt
 ```
 
-# Examples
+To run the notebook, in the virtual environment, run:
 
-The 
+```
+python -m jupyter notebook
+```
 
-The following examples are described in further detail in arXiv:X
+and open the `demo.ipynb` file to run and/or modify.
