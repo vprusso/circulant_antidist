@@ -1,1 +1,2 @@
 toqito @ git+https://github.com/vprusso/toqito
+qiskit>=0.43.2
