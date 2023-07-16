@@ -1,4 +1,4 @@
-# X
+# Supplemental code examples for arXiv:X
 
 # Setup 
 
@@ -12,6 +12,6 @@ pip install --upgrade -r requirements.txt
 
 # Examples
 
-## Trine
+The 
 
-
+The following examples are described in further detail in arXiv:X
