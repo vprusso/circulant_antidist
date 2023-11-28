@@ -1,4 +1,4 @@
 toqito @ git+https://github.com/vprusso/toqito
-qiskit>=0.43.2
-matplotlib>=3.7.2
-jupyter>=1.0.0
+qiskit==0.45.0
+matplotlib==3.8.2
+jupyter==1.0.0
