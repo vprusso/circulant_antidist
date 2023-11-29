@@ -1,4 +1,4 @@
-# Supplemental code examples for arXiv:X
+# Supplemental code examples for [arXiv:2311.17047](https://arxiv.org/pdf/2311.17047.pdf)
 
 All examples are provided in the `demo.ipynb` notebook. If you wish to modify
 and run this locally, follow the directions in the "Setup" section.
